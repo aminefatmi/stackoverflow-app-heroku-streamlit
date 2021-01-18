@@ -1,0 +1,12 @@
+p {
+    text-align: left; 
+}
+p span { 
+    background-color: rgb(252, 159, 183); 
+    font-size:20px;
+    outline-style: double;
+    outline-color: rgb(244, 53, 101);
+}
+p span { 
+    color: white; 
+}
